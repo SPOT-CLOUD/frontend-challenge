@@ -2,7 +2,7 @@
 
 # Frontend Challenge
 
-The challenge is to build a frontend Screen to showcase **Rick And Morty** characters, you are required to make pagination with no more than 10 items, present an image of the character(if present), name, species, number of episodes the character appears on the show and  current live status.
+The challenge is to build a frontend Screen to showcase **Rick And Morty** characters, you are required to make pagination with no more than 10 items **per page**, present an image of the character(if present), name, species, number of episodes the character appears on the show and  current live status.
 
 ## What we expect the app to do
 
