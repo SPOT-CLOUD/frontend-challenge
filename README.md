@@ -28,8 +28,17 @@ Dive into the way you solve problems, clean good code and we will be watching yo
 We will receive your application with an URL, you can use Vercel, Netlify, Heroku or Github/Gitlab Pages to do so. 
 You must send your application before `Saturday 12 at 1AM(UTC)`
 
+## Sending your solution
+
+Follow this template when sending back your challenge proposal:
+
+- **Subject:** Spot Frontend Challenge
+- **Body:** Your name, Repo and live example URL
+ 
 ## Resources 
 
 - [The Rick and Morty API](https://rickandmortyapi.com/api/character)
 - [React Documentation](https://reactjs.org/)
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+
+
