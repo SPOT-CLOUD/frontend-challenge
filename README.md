@@ -25,8 +25,7 @@ We do know this will be easy for you... so, to level this up you can add your cu
 
 Dive into the way you solve problems, clean good code and we will be watching your git history : ).
 
-We will receive your application with an URL, you can use Vercel, Netlify, Heroku or Github/Gitlab Pages to do so. 
-You must send your application before `Saturday 12 at 1AM(UTC)`
+We will receive your application with an URL, you can use Vercel, Netlify, Heroku or Github/Gitlab Pages to do so.
 
 ## Sending your solution
 
