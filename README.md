@@ -34,7 +34,6 @@ Follow this template when sending back your challenge proposal:
 
 - **Subject:** Spot Frontend Challenge
 - **Body:** Your name, Repo and live example URL
-- **Recipient:** dennyportillo@spotcloud.io , or reply to Julio Ábrego's email
  
 ## Resources 
 
